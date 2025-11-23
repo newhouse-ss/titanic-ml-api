@@ -14,13 +14,13 @@ A production-ready RESTful API for survival prediction with automated SQLite log
 - **Status**: Completed
 - **Link**: [View Project](https://github.com/newhouse-ss/Portfolio/tree/main/titanic-ml-api)
 
-### Hiragana Character Classifier
+### Hiragana Character Classifier(Private)
 
 A deep learning-based image classification service for Japanese characters (Kuzushiji-49).
 
 - **Tech Stack**: PyTorch, CNN, FastAPI
 - **Status**: Under Development
-- **Link**: [Preparing]()
+- **Link**: [Private]()
 
 ### NFL Trajectory Prediction
 
